@@ -1270,6 +1270,7 @@ a {
   list-style: none;
   padding-left: 0;
   color: #bbbbbb;
+  text-align: left;
 }
 @media (max-width: 991px) {
   .cid-ukciM2uaVm .list {
@@ -1283,10 +1284,12 @@ a {
 }
 .cid-ukciM2uaVm .mbr-text {
   color: #bbbbbb;
+  text-align: left;
 }
 .cid-ukciM2uaVm .mbr-iconfont {
   color: black;
 }
 .cid-ukciM2uaVm .mbr-section-subtitle {
   color: #a2cce3;
+  text-align: left;
 }
